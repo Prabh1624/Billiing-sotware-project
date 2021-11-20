@@ -1,0 +1,27 @@
+		WELCOME  TO  THE  SHOP
+
+ INVOICE No. :  5878
+ Customer Name :  
+ Phone Number:  
+ Customer Email :  
+=====================================================
+  Products 			QTY		Price
+___________________________________________________________
+
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+ Levis			 1		2599
+
+___________________________________________________________
+  Sub Amount:					Rs.28589.00
+  Tax Amount:					Rs.259.90
+  Total Amount:					Rs.28848.90
+=====================================================

@@ -1,0 +1,23 @@
+		Welcome to Shop
+ BILL Number:4845
+ Customer Name:sadxsa
+ Phone Number:34
+ Customer Email:dssa
+==================================================
+ Products 			QTY		Price
+==================================================
+ Pepe		1		4000
+ Pepe		1		4000
+ Pepe		1		4000
+ Pepe		1		4000
+ Pepe		1		4000
+ Pepe		1		4000
+ Pepe		1		4000
+ Pepe		1		4000
+ Pepe		1		4000
+
+ ==================================================
+ Sub Amount:				Rs.36000.00
+ Tax Amount:				Rs.320.00
+ Total Amount:				Rs.36320.00
+ ==================================================

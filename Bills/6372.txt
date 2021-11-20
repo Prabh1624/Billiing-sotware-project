@@ -1,0 +1,21 @@
+		WELCOME  TO  THE  SHOP
+
+ INVOICE No. :  6372
+ Customer Name :  Abhi
+ Phone Number:  1234567890
+ Customer Email :  myemail@domain.com
+=====================================================
+  Products 			QTY		Price
+=====================================================
+
+ Bosch			 1		24499
+ Whirlpool			 1		34900
+ Haier			 1		34900
+ DJI			 1		32000
+ Killer			 1		2999
+
+=====================================================
+  Sub Amount:					Rs.129298.00
+  Tax Amount:					Rs.1262.99
+  Total Amount:					Rs.130560.99
+=====================================================

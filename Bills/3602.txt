@@ -1,0 +1,20 @@
+		WELCOME  TO  THE  SHOP
+
+ INVOICE No. :  3602
+ Customer Name :  fesfwesf
+ Phone Number:  frefresf
+ Customer Email :  rfesfcsf
+=====================================================
+  Products 				QTY		Price
+___________________________________________________________
+
+ Armani				 1		3349
+ Armani				 1		3349
+ Armani				 1		3349
+ Armani				 1		3349
+
+___________________________________________________________
+  Sub Amount:						Rs.16745.00
+  Tax Amount:						Rs.133.96
+  Total Amount:						Rs.16878.96
+=====================================================

@@ -1,0 +1,17 @@
+		Welcome to Shop
+ BILL Number:1934
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==================================================
+ Products 			QTY		Price
+================================================== Killer		1		3000
+ Killer		1		3000
+ Killer		1		3000
+ Killer		1		3000
+
+ ==================================================
+ Sub Amount:				Rs.15000.00
+ Tax Amount:				Rs.120.00
+ Total Amount:				Rs.15120.00
+ ==================================================

@@ -1,0 +1,20 @@
+		WELCOME  TO  THE  SHOP
+
+ INVOICE No. :  4735
+ Customer Name :  dvgfdxvfvgfdx
+ Phone Number:  cdsfvcszdvfcdvdxcv 
+ Customer Email :  vgfdsvg
+=====================================================
+  Products 				QTY		Price
+___________________________________________________________
+
+ Killer				 1		2999
+ Killer				 1		2999
+ Killer				 1		2999
+ Killer				 1		2999
+
+___________________________________________________________
+  Sub Amount:						Rs.14995.00
+  Tax Amount:						Rs.119.96
+  Total Amount:						Rs.15114.96
+=====================================================
